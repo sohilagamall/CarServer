@@ -16,10 +16,10 @@ A TypeScript-based backend server for managing car-related data and services, bu
    ```bash
    git clone https://github.com/sohilagamall/CarServer.git
    cd CarServer
-npm install
-npm run dev      # for development
-npm run build    # for production build
-npm start        # to start the built app
+   npm install
+   npm run dev      # for development
+   npm run build    # for production build
+   npm start        # to start the built app
 
 ## Tech stack 
 Node.js
